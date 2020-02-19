@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="653500f9-405e-455b-8e94-26333a528061" name="Default Changelist" comment="" />
+    <list default="true" id="653500f9-405e-455b-8e94-26333a528061" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/cap01_metodo_main/Exemplo02_TiposPrimitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap01_metodo_main/Exemplo03_TiposObjetos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap02_arrays/Exemplo04_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap02_arrays/Exemplo05_Arrays2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap03_operadores/Exemplo06_OperadoresMatematicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap03_operadores/Exemplo07_OperadoresLogicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo08_ComandoIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo09_ComandoIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo10_ComandoIfElseifElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap01_metodo_main/Ex01MetodoMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap01_metodo_main/Ex02TiposPrimitivos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap01_metodo_main/Ex01MetodoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap01_metodo_main/Exemplo01_MetodoMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap01_metodo_main/Ex02TiposPrimitivos.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +31,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -33,13 +51,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Ex02TiposPrimitivos">
-    <configuration name="Ex01MetodoMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cap01_metodo_main.Ex01MetodoMain" />
+  <component name="RunManager" selected="Application.Exemplo10_ComandoIfElseifElse">
+    <configuration name="Exemplo06_OperadoresMatematicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap03_operadores.Exemplo06_OperadoresMatematicos" />
       <module name="RevisaoJavaOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cap01_metodo_main.*" />
+          <option name="PATTERN" value="cap03_operadores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -47,19 +65,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex01MetodoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex01MetodoMain" />
+    <configuration name="Exemplo07_OperadoresLogicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap03_operadores.Exemplo07_OperadoresLogicos" />
       <module name="RevisaoJavaOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cap03_operadores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex02TiposPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cap01_metodo_main.Ex02TiposPrimitivos" />
+    <configuration name="Exemplo08_ComandoIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap04_estruturas_decisao.Exemplo08_ComandoIf" />
       <module name="RevisaoJavaOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cap01_metodo_main.*" />
+          <option name="PATTERN" value="cap04_estruturas_decisao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exemplo09_ComandoIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap04_estruturas_decisao.Exemplo09_ComandoIfElse" />
+      <module name="RevisaoJavaOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cap04_estruturas_decisao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exemplo10_ComandoIfElseifElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap04_estruturas_decisao.Exemplo10_ComandoIfElseifElse" />
+      <module name="RevisaoJavaOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cap04_estruturas_decisao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,9 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex02TiposPrimitivos" />
-        <item itemvalue="Application.Ex01MetodoMain (1)" />
-        <item itemvalue="Application.Ex01MetodoMain" />
+        <item itemvalue="Application.Exemplo10_ComandoIfElseifElse" />
+        <item itemvalue="Application.Exemplo09_ComandoIfElse" />
+        <item itemvalue="Application.Exemplo08_ComandoIf" />
+        <item itemvalue="Application.Exemplo07_OperadoresLogicos" />
+        <item itemvalue="Application.Exemplo06_OperadoresMatematicos" />
       </list>
     </recent_temporary>
   </component>
@@ -97,21 +149,37 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="421" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1582079745979" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1582081315299">
+    <state x="399" y="82" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1582132417902">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582081315299" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1582081315299">
+    <state x="399" y="82" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1366.728@0.0.1366.728" timestamp="1582132417902" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1582145023831">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582081315299" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1582081315299">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582145023831" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1582145023831">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582081315299" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1582081315299">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582145023831" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1582145023831">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582081315299" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582145023831" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1582145023831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582145023831" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1582114591213">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582114591213" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1582135939306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1582135939306" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1582137698466">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1582137698466" />
   </component>
 </project>
