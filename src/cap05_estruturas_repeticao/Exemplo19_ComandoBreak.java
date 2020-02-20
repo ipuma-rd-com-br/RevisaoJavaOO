@@ -7,7 +7,7 @@ public class Exemplo19_ComandoBreak {
         int[] numeros = {1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144};
 
         // trecho de código abaixo vai imprimir no console os 3 primeiros números pares existentes no array
-        // que está sendo varrido
+        // que está sendo varrido; ou seja, o valor 144 não deve ser imprimido
 
         System.out.println("3 primeiros pares do array numeros:");
         int pares = 0;

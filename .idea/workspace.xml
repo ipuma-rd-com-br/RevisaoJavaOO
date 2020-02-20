@@ -20,23 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="653500f9-405e-455b-8e94-26333a528061" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo11_ComandoSwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo12_ComandoSwitchCase2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo13_ComandoIfTernario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap05_estruturas_repeticao/Exemplo14_ComandoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap05_estruturas_repeticao/Exemplo15_ComandoDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap05_estruturas_repeticao/Exemplo16_ComandoFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap05_estruturas_repeticao/Exemplo17_ComandoForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap05_estruturas_repeticao/Exemplo18_ComandoForEach2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap05_estruturas_repeticao/Exemplo19_ComandoBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap05_estruturas_repeticao/Exemplo20_ComandoContinue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap04_estruturas_decisao/Exemplo08_ComandoIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap04_estruturas_decisao/Exemplo08_ComandoIf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap04_estruturas_decisao/Exemplo09_ComandoIfElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap04_estruturas_decisao/Exemplo09_ComandoIfElse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap04_estruturas_decisao/Exemplo10_ComandoIfElseifElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap04_estruturas_decisao/Exemplo10_ComandoIfElseifElse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo08_ComandoIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo08_ComandoIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo09_ComandoIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo09_ComandoIfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo10_ComandoIfElseifElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo10_ComandoIfElseifElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap05_estruturas_repeticao/Exemplo19_ComandoBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap05_estruturas_repeticao/Exemplo19_ComandoBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap05_estruturas_repeticao/Exemplo20_ComandoContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap05_estruturas_repeticao/Exemplo20_ComandoContinue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
