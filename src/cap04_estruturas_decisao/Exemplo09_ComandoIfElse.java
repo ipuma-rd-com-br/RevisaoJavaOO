@@ -18,5 +18,9 @@ public class Exemplo09_ComandoIfElse {
 
         System.out.println("vai imprimir isso de qualquer forma, pois o código está fora do bloco do IF-ELSE");
 
+        // OBSERVAÇÕES:
+        //
+        // Troque o valor da variável numero e execute o metódo main() novamente para observar o comportamento do código.
+
     }
 }

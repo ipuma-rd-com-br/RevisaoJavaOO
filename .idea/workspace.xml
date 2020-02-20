@@ -1,21 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="653500f9-405e-455b-8e94-26333a528061" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cap01_metodo_main/Exemplo02_TiposPrimitivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap01_metodo_main/Exemplo03_TiposObjetos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap02_arrays/Exemplo04_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap02_arrays/Exemplo05_Arrays2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap03_operadores/Exemplo06_OperadoresMatematicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap03_operadores/Exemplo07_OperadoresLogicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo08_ComandoIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo09_ComandoIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo10_ComandoIfElseifElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo11_ComandoSwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo12_ComandoSwitchCase2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo13_ComandoIfTernario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap05_estruturas_repeticao/Exemplo14_ComandoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap05_estruturas_repeticao/Exemplo15_ComandoDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap05_estruturas_repeticao/Exemplo16_ComandoFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap05_estruturas_repeticao/Exemplo17_ComandoForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap05_estruturas_repeticao/Exemplo18_ComandoForEach2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap05_estruturas_repeticao/Exemplo19_ComandoBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap05_estruturas_repeticao/Exemplo20_ComandoContinue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap01_metodo_main/Ex01MetodoMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap01_metodo_main/Ex02TiposPrimitivos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cap01_metodo_main/Ex01MetodoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap01_metodo_main/Exemplo01_MetodoMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cap01_metodo_main/Ex02TiposPrimitivos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap04_estruturas_decisao/Exemplo08_ComandoIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap04_estruturas_decisao/Exemplo08_ComandoIf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap04_estruturas_decisao/Exemplo09_ComandoIfElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap04_estruturas_decisao/Exemplo09_ComandoIfElse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap04_estruturas_decisao/Exemplo10_ComandoIfElseifElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap04_estruturas_decisao/Exemplo10_ComandoIfElseifElse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo08_ComandoIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo08_ComandoIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo09_ComandoIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo09_ComandoIfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo10_ComandoIfElseifElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap04_estruturas_decisao/Exemplo10_ComandoIfElseifElse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,22 +63,22 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Exemplo10_ComandoIfElseifElse">
-    <configuration name="Exemplo06_OperadoresMatematicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cap03_operadores.Exemplo06_OperadoresMatematicos" />
+  <component name="RunManager" selected="Application.Exemplo20_ComandoContinue">
+    <configuration name="Exemplo16_ComandoFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap05_estruturas_repeticao.Exemplo16_ComandoFor" />
       <module name="RevisaoJavaOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cap03_operadores.*" />
+          <option name="PATTERN" value="cap05_estruturas_repeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exemplo07_OperadoresLogicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cap03_operadores.Exemplo07_OperadoresLogicos" />
+    <configuration name="Exemplo17_ComandoForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap05_estruturas_repeticao.Exemplo17_ComandoForEach" />
       <module name="RevisaoJavaOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cap03_operadores.*" />
+          <option name="PATTERN" value="cap05_estruturas_repeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exemplo08_ComandoIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cap04_estruturas_decisao.Exemplo08_ComandoIf" />
+    <configuration name="Exemplo18_ComandoForEach2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap05_estruturas_repeticao.Exemplo18_ComandoForEach2" />
       <module name="RevisaoJavaOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cap04_estruturas_decisao.*" />
+          <option name="PATTERN" value="cap05_estruturas_repeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exemplo09_ComandoIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cap04_estruturas_decisao.Exemplo09_ComandoIfElse" />
+    <configuration name="Exemplo19_ComandoBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap05_estruturas_repeticao.Exemplo19_ComandoBreak" />
       <module name="RevisaoJavaOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cap04_estruturas_decisao.*" />
+          <option name="PATTERN" value="cap05_estruturas_repeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exemplo10_ComandoIfElseifElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cap04_estruturas_decisao.Exemplo10_ComandoIfElseifElse" />
+    <configuration name="Exemplo20_ComandoContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap05_estruturas_repeticao.Exemplo20_ComandoContinue" />
       <module name="RevisaoJavaOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cap04_estruturas_decisao.*" />
+          <option name="PATTERN" value="cap05_estruturas_repeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exemplo10_ComandoIfElseifElse" />
-        <item itemvalue="Application.Exemplo09_ComandoIfElse" />
-        <item itemvalue="Application.Exemplo08_ComandoIf" />
-        <item itemvalue="Application.Exemplo07_OperadoresLogicos" />
-        <item itemvalue="Application.Exemplo06_OperadoresMatematicos" />
+        <item itemvalue="Application.Exemplo20_ComandoContinue" />
+        <item itemvalue="Application.Exemplo19_ComandoBreak" />
+        <item itemvalue="Application.Exemplo18_ComandoForEach2" />
+        <item itemvalue="Application.Exemplo17_ComandoForEach" />
+        <item itemvalue="Application.Exemplo16_ComandoFor" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +161,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="275" y="23" key="#Project_Structure" timestamp="1582079782551">
       <screen x="0" y="0" width="1366" height="728" />
@@ -153,22 +185,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="399" y="82" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1366.728@0.0.1366.728" timestamp="1582132417902" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1582145023831">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1273" height="204" key="GridCell.Tab.0.bottom" timestamp="1582162316854">
+      <screen x="47" y="24" width="1319" height="744" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582145023831" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1582145023831">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1273" height="204" key="GridCell.Tab.0.bottom/47.24.1319.744@47.24.1319.744" timestamp="1582162316854" />
+    <state width="1273" height="204" key="GridCell.Tab.0.center" timestamp="1582162316853">
+      <screen x="47" y="24" width="1319" height="744" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582145023831" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1582145023831">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1273" height="204" key="GridCell.Tab.0.center/47.24.1319.744@47.24.1319.744" timestamp="1582162316853" />
+    <state width="1273" height="204" key="GridCell.Tab.0.left" timestamp="1582162316853">
+      <screen x="47" y="24" width="1319" height="744" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582145023831" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1582145023831">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1273" height="204" key="GridCell.Tab.0.left/47.24.1319.744@47.24.1319.744" timestamp="1582162316853" />
+    <state width="1273" height="204" key="GridCell.Tab.0.right" timestamp="1582162316853">
+      <screen x="47" y="24" width="1319" height="744" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582145023831" />
+    <state width="1273" height="204" key="GridCell.Tab.0.right/47.24.1319.744@47.24.1319.744" timestamp="1582162316853" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1582114591213">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
