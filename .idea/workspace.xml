@@ -20,36 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="653500f9-405e-455b-8e94-26333a528061" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cap01_metodo_main/UmaClasseQualquer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap08_classes_objetos/Exemplo32_Classes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap08_classes_objetos/Exemplo33_Construtores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap08_classes_objetos/Exemplo34_Construtores2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap08_classes_objetos/Exemplo35_Construtores3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap08_classes_objetos/UmaClasseQualquer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap08_classes_objetos/UmaClasseQualquerComConstrutorComParametros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap08_classes_objetos/UmaClasseQualquerComConstrutorPadrao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap08_classes_objetos/UmaClasseQualquerComConstrutoresPadraoEComParametros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap09_heranca/Exemplo36_Heranca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap09_heranca/UmaSubClasse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap09_heranca/UmaSuperClasse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap10_interface/Exemplo37_Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap10_interface/MaisOutraClasse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap10_interface/OutraClasse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap10_interface/UmaClasse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap10_interface/UmaInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap11_sobrecarga_sobrescrita/Exemplo38_Sobrecarga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap11_sobrecarga_sobrescrita/Exemplo39_Sobrescrita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap11_sobrecarga_sobrescrita/UmaClasseComSobrecargaDeMetodos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap11_sobrecarga_sobrescrita/UmaSubClasse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap11_sobrecarga_sobrescrita/UmaSuperClasse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap99_modificadores_acesso/Exemplo32_ModificadorPublic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap99_modificadores_acesso/Exemplo33_ModificadorPrivate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes_auxiliares/UmaClasseComMembrosPrivate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes_auxiliares/UmaClasseComMembrosPublic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap01_metodo_main/UmaClasseQualquer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap01_metodo_main/UmaClasseQualquer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap07_excecoes_erros/Exemplo31_Error.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap07_excecoes_erros/Exemplo31_Error.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cap01_metodo_main/Exemplo03_TiposObjetos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap01_metodo_main/Exemplo03_TiposObjetos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/META-INF/RevisaoJavaOO.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap05_estruturas_repeticao/Exemplo19_ComandoBreak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap05_estruturas_repeticao/Exemplo20_ComandoContinue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap11_sobrecarga_sobrescrita/Exemplo39_Sobrescrita.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap11_sobrecarga_sobrescrita/Exemplo39_Sobrescrita.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +58,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
@@ -196,10 +171,11 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="23" key="#Project_Structure" timestamp="1582079782551">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="313" y="25" width="1024" height="743" key="#Project_Structure" timestamp="1582241713240">
+      <screen x="47" y="24" width="1319" height="744" />
     </state>
     <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1582079782551" />
+    <state x="313" y="25" width="1024" height="743" key="#Project_Structure/47.24.1319.744@47.24.1319.744" timestamp="1582241713240" />
     <state x="421" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582079745979">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -240,6 +216,10 @@
     </state>
     <state width="1323" height="186" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582233374830" />
     <state width="1273" height="204" key="GridCell.Tab.0.right/47.24.1319.744@47.24.1319.744" timestamp="1582162316853" />
+    <state x="194" y="24" key="SettingsEditor" timestamp="1582241930758">
+      <screen x="47" y="24" width="1319" height="744" />
+    </state>
+    <state x="194" y="24" key="SettingsEditor/47.24.1319.744@47.24.1319.744" timestamp="1582241930758" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1582114591213">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
