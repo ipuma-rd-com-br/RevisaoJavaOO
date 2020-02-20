@@ -1,4 +1,4 @@
-package cap05_estruturas_repeticao;
+package cap06_quebra_repeticao;
 
 public class Exemplo20_ComandoContinue {
 
