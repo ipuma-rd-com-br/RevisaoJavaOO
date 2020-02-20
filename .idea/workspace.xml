@@ -20,20 +20,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="653500f9-405e-455b-8e94-26333a528061" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cap07_excecoes_erros/Exemplo21_Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap07_excecoes_erros/Exemplo22_TryCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap07_excecoes_erros/Exemplo23_TryCatch2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap07_excecoes_erros/Exemplo24_TryCatch3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap07_excecoes_erros/Exemplo25_TryCatch4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap07_excecoes_erros/Exemplo26_TryCatchFinally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap07_excecoes_erros/Exemplo27_TryCatchFinally2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap07_excecoes_erros/Exemplo28_ComandoThrows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap07_excecoes_erros/Exemplo29_ComandoThrows2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap07_excecoes_erros/Exemplo30_ComandoThrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap07_excecoes_erros/Exemplo31_Error.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap01_metodo_main/UmaClasseQualquer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap08_classes_objetos/Exemplo32_Classes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap08_classes_objetos/Exemplo33_Construtores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap08_classes_objetos/Exemplo34_Construtores2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap08_classes_objetos/Exemplo35_Construtores3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap08_classes_objetos/UmaClasseQualquer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap08_classes_objetos/UmaClasseQualquerComConstrutorComParametros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap08_classes_objetos/UmaClasseQualquerComConstrutorPadrao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap08_classes_objetos/UmaClasseQualquerComConstrutoresPadraoEComParametros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap09_heranca/Exemplo36_Heranca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap09_heranca/UmaSubClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap09_heranca/UmaSuperClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap10_interface/Exemplo37_Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap10_interface/MaisOutraClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap10_interface/OutraClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap10_interface/UmaClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap10_interface/UmaInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap11_sobrecarga_sobrescrita/Exemplo38_Sobrecarga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap11_sobrecarga_sobrescrita/Exemplo39_Sobrescrita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap11_sobrecarga_sobrescrita/UmaClasseComSobrecargaDeMetodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap11_sobrecarga_sobrescrita/UmaSubClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap11_sobrecarga_sobrescrita/UmaSuperClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap99_modificadores_acesso/Exemplo32_ModificadorPublic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap99_modificadores_acesso/Exemplo33_ModificadorPrivate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes_auxiliares/UmaClasseComMembrosPrivate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes_auxiliares/UmaClasseComMembrosPublic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cap05_estruturas_repeticao/Exemplo19_ComandoBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap06_quebra_repeticao/Exemplo19_ComandoBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cap05_estruturas_repeticao/Exemplo20_ComandoContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap06_quebra_repeticao/Exemplo20_ComandoContinue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap01_metodo_main/UmaClasseQualquer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap01_metodo_main/UmaClasseQualquer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap07_excecoes_erros/Exemplo31_Error.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap07_excecoes_erros/Exemplo31_Error.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap01_metodo_main/Exemplo03_TiposObjetos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap01_metodo_main/Exemplo03_TiposObjetos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +62,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -69,13 +86,22 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Exemplo31_Error">
-    <configuration name="Exemplo27_TryCatchFinally2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cap07_excecoes_erros.Exemplo27_TryCatchFinally2" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cap11_sobrecarga_sobrescrita" />
+      <recent name="cap10_interface" />
+      <recent name="cap09_heranca" />
+      <recent name="cap08_classes_objetos" />
+      <recent name="classes_auxiliares" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Exemplo39_Sobrescrita">
+    <configuration name="Exemplo34_Construtores2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap08_classes_objetos.Exemplo34_Construtores2" />
       <module name="RevisaoJavaOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cap07_excecoes_erros.*" />
+          <option name="PATTERN" value="cap08_classes_objetos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exemplo28_ComandoThrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cap07_excecoes_erros.Exemplo28_ComandoThrows" />
+    <configuration name="Exemplo35_Construtores3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap08_classes_objetos.Exemplo35_Construtores3" />
       <module name="RevisaoJavaOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cap07_excecoes_erros.*" />
+          <option name="PATTERN" value="cap08_classes_objetos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exemplo29_ComandoThrows2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cap07_excecoes_erros.Exemplo29_ComandoThrows2" />
+    <configuration name="Exemplo36_Heranca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap09_heranca.Exemplo36_Heranca" />
       <module name="RevisaoJavaOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cap07_excecoes_erros.*" />
+          <option name="PATTERN" value="cap09_heranca.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exemplo30_ComandoThrow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cap07_excecoes_erros.Exemplo30_ComandoThrow" />
+    <configuration name="Exemplo37_Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap10_interface.Exemplo37_Interface" />
       <module name="RevisaoJavaOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cap07_excecoes_erros.*" />
+          <option name="PATTERN" value="cap10_interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exemplo31_Error" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cap07_excecoes_erros.Exemplo31_Error" />
+    <configuration name="Exemplo39_Sobrescrita" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap11_sobrecarga_sobrescrita.Exemplo39_Sobrescrita" />
       <module name="RevisaoJavaOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cap07_excecoes_erros.*" />
+          <option name="PATTERN" value="cap11_sobrecarga_sobrescrita.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exemplo31_Error" />
-        <item itemvalue="Application.Exemplo30_ComandoThrow" />
-        <item itemvalue="Application.Exemplo29_ComandoThrows2" />
-        <item itemvalue="Application.Exemplo28_ComandoThrows" />
-        <item itemvalue="Application.Exemplo27_TryCatchFinally2" />
+        <item itemvalue="Application.Exemplo39_Sobrescrita" />
+        <item itemvalue="Application.Exemplo37_Interface" />
+        <item itemvalue="Application.Exemplo36_Heranca" />
+        <item itemvalue="Application.Exemplo35_Construtores3" />
+        <item itemvalue="Application.Exemplo34_Construtores2" />
       </list>
     </recent_temporary>
   </component>
@@ -180,38 +206,50 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="421" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1582079745979" />
-    <state x="479" y="249" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582200210352">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1582231438575">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="479" y="249" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1582200210352" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1582231438575" />
+    <state x="479" y="249" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582228677518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="249" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1582228677518" />
     <state x="399" y="82" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1582132417902">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="399" y="82" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1366.728@0.0.1366.728" timestamp="1582132417902" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1582210906760">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582227046915">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582210906760" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1582227046915" />
+    <state width="1323" height="186" key="GridCell.Tab.0.bottom" timestamp="1582233374830">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="186" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582233374830" />
     <state width="1273" height="204" key="GridCell.Tab.0.bottom/47.24.1319.744@47.24.1319.744" timestamp="1582162316854" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1582210906760">
+    <state width="1323" height="186" key="GridCell.Tab.0.center" timestamp="1582233374830">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582210906760" />
+    <state width="1323" height="186" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582233374830" />
     <state width="1273" height="204" key="GridCell.Tab.0.center/47.24.1319.744@47.24.1319.744" timestamp="1582162316853" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1582210906759">
+    <state width="1323" height="186" key="GridCell.Tab.0.left" timestamp="1582233374830">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582210906759" />
+    <state width="1323" height="186" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582233374830" />
     <state width="1273" height="204" key="GridCell.Tab.0.left/47.24.1319.744@47.24.1319.744" timestamp="1582162316853" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1582210906760">
+    <state width="1323" height="186" key="GridCell.Tab.0.right" timestamp="1582233374830">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582210906760" />
+    <state width="1323" height="186" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582233374830" />
     <state width="1273" height="204" key="GridCell.Tab.0.right/47.24.1319.744@47.24.1319.744" timestamp="1582162316853" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1582114591213">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582114591213" />
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1582228268911">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1582228268911" />
     <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1582135939306">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
