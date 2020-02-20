@@ -30,8 +30,3 @@ public class Exemplo03_TiposObjetos {
     }
 
 }
-
-class UmaClasseQualquer {
-    int umAtributoInt;
-    String umAtributoString;
-}
