@@ -21,10 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="653500f9-405e-455b-8e94-26333a528061" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cap01_metodo_main/Exemplo01_MetodoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap01_tipos_java/Exemplo01_MetodoMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cap01_metodo_main/Exemplo02_TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap01_tipos_java/Exemplo02_TiposPrimitivos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cap01_metodo_main/Exemplo03_TiposObjetos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap01_tipos_java/Exemplo03_TiposObjetos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cap01_metodo_main/UmaClasseQualquer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap01_tipos_java/UmaClasseQualquer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap01_metodo_main/Exemplo01_MetodoMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap01_metodo_main/Exemplo02_TiposPrimitivos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap01_metodo_main/Exemplo03_TiposObjetos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap01_metodo_main/UmaClasseQualquer.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,13 +72,13 @@
       <recent name="cap09_heranca" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exemplo55_Enum">
-    <configuration name="Exemplo51_Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cap13_collections.Exemplo51_Set" />
+  <component name="RunManager" selected="Application.Exemplo01_MetodoMain">
+    <configuration name="Exemplo01_MetodoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap01_tipos_java.Exemplo01_MetodoMain" />
       <module name="RevisaoJavaOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cap13_collections.*" />
+          <option name="PATTERN" value="cap01_tipos_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exemplo01_MetodoMain" />
         <item itemvalue="Application.Exemplo55_Enum" />
         <item itemvalue="Application.Exemplo53_Casting" />
         <item itemvalue="Application.Exemplo54_Casting2" />
         <item itemvalue="Application.Exemplo52_Map" />
-        <item itemvalue="Application.Exemplo51_Set" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +166,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -203,25 +205,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1582227046915" />
-    <state width="1273" height="152" key="GridCell.Tab.0.bottom" timestamp="1582263970327">
-      <screen x="47" y="24" width="1319" height="744" />
+    <state width="1323" height="144" key="GridCell.Tab.0.bottom" timestamp="1582293886444">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="186" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582233374830" />
+    <state width="1323" height="144" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582293886444" />
     <state width="1273" height="152" key="GridCell.Tab.0.bottom/47.24.1319.744@47.24.1319.744" timestamp="1582263970327" />
-    <state width="1273" height="152" key="GridCell.Tab.0.center" timestamp="1582263970323">
-      <screen x="47" y="24" width="1319" height="744" />
+    <state width="1323" height="144" key="GridCell.Tab.0.center" timestamp="1582293886444">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="186" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582233374830" />
+    <state width="1323" height="144" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582293886444" />
     <state width="1273" height="152" key="GridCell.Tab.0.center/47.24.1319.744@47.24.1319.744" timestamp="1582263970323" />
-    <state width="1273" height="152" key="GridCell.Tab.0.left" timestamp="1582263970322">
-      <screen x="47" y="24" width="1319" height="744" />
+    <state width="1323" height="144" key="GridCell.Tab.0.left" timestamp="1582293886444">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="186" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582233374830" />
+    <state width="1323" height="144" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582293886444" />
     <state width="1273" height="152" key="GridCell.Tab.0.left/47.24.1319.744@47.24.1319.744" timestamp="1582263970322" />
-    <state width="1273" height="152" key="GridCell.Tab.0.right" timestamp="1582263970326">
-      <screen x="47" y="24" width="1319" height="744" />
+    <state width="1323" height="144" key="GridCell.Tab.0.right" timestamp="1582293886444">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="186" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582233374830" />
+    <state width="1323" height="144" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582293886444" />
     <state width="1273" height="152" key="GridCell.Tab.0.right/47.24.1319.744@47.24.1319.744" timestamp="1582263970326" />
     <state x="194" y="24" key="SettingsEditor" timestamp="1582241930758">
       <screen x="47" y="24" width="1319" height="744" />
