@@ -20,24 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="653500f9-405e-455b-8e94-26333a528061" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cap12_modificadores_acesso/Exemplo44_ModificadorFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap12_modificadores_acesso/Exemplo45_ModificadorFinal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap12_modificadores_acesso/Exemplo46_ModificadorFinal3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap12_modificadores_acesso/Exemplo47_ModificadorStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap12_modificadores_acesso/Exemplo48_ModificadorAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap12_modificadores_acesso/Exemplo49_ModificadorAbstract2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes_auxiliares/UmaClasseAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes_auxiliares/UmaClasseComMembrosFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes_auxiliares/UmaClasseComMembrosStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes_auxiliares/UmaClasseComMetodoAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes_auxiliares/UmaClasseComMetodoFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes_auxiliares/UmaClasseFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes_auxiliares/UmaSubClasseDeClasseFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes_auxiliares/UmaSubClasseQueTentaSobrescreverMetodoFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap13_collections/Exemplo50_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap13_collections/Exemplo51_Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap13_collections/Exemplo52_Map.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap12_modificadores_acesso/Exemplo43_ModificadorDefault.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap12_modificadores_acesso/Exemplo43_ModificadorDefault.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/classes_auxiliares/UmaClasseQueAcessaMembroDefaultDeOutraClasse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RevisaoJavaOO/classes_auxiliares/UmaClasseQueAcessaMembroDefaultDeOutraClasse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/classes_auxiliares/UmaSubClasse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RevisaoJavaOO/classes_auxiliares/UmaSubClasse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap12_modificadores_acesso/Exemplo47_ModificadorStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RevisaoJavaOO/cap12_modificadores_acesso/Exemplo47_ModificadorStatic.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +38,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="JavaFXApplication" />
         <option value="Class" />
       </list>
     </option>
@@ -83,46 +71,7 @@
       <recent name="cap09_heranca" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exemplo47_ModificadorStatic">
-    <configuration name="Exemplo42_ModificadorProtected" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cap12_modificadores_acesso.Exemplo42_ModificadorProtected" />
-      <module name="RevisaoJavaOO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cap12_modificadores_acesso.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exemplo43_ModificadorDefault" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cap12_modificadores_acesso.Exemplo43_ModificadorDefault" />
-      <module name="RevisaoJavaOO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cap12_modificadores_acesso.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exemplo44_ModificadorFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cap12_modificadores_acesso.Exemplo44_ModificadorFinal" />
-      <module name="RevisaoJavaOO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cap12_modificadores_acesso.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exemplo52_Map">
     <configuration name="Exemplo46_ModificadorFinal3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cap12_modificadores_acesso.Exemplo46_ModificadorFinal3" />
       <module name="RevisaoJavaOO" />
@@ -149,13 +98,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exemplo50_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap13_collections.Exemplo50_List" />
+      <module name="RevisaoJavaOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cap13_collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exemplo51_Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap13_collections.Exemplo51_Set" />
+      <module name="RevisaoJavaOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cap13_collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exemplo52_Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap13_collections.Exemplo52_Map" />
+      <module name="RevisaoJavaOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cap13_collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exemplo52_Map" />
+        <item itemvalue="Application.Exemplo51_Set" />
+        <item itemvalue="Application.Exemplo50_List" />
         <item itemvalue="Application.Exemplo47_ModificadorStatic" />
         <item itemvalue="Application.Exemplo46_ModificadorFinal3" />
-        <item itemvalue="Application.Exemplo44_ModificadorFinal" />
-        <item itemvalue="Application.Exemplo43_ModificadorDefault" />
-        <item itemvalue="Application.Exemplo42_ModificadorProtected" />
       </list>
     </recent_temporary>
   </component>
@@ -214,26 +202,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1582227046915" />
-    <state width="1273" height="179" key="GridCell.Tab.0.bottom" timestamp="1582250957601">
+    <state width="1273" height="152" key="GridCell.Tab.0.bottom" timestamp="1582254942356">
       <screen x="47" y="24" width="1319" height="744" />
     </state>
     <state width="1323" height="186" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582233374830" />
-    <state width="1273" height="179" key="GridCell.Tab.0.bottom/47.24.1319.744@47.24.1319.744" timestamp="1582250957601" />
-    <state width="1273" height="179" key="GridCell.Tab.0.center" timestamp="1582250957600">
+    <state width="1273" height="152" key="GridCell.Tab.0.bottom/47.24.1319.744@47.24.1319.744" timestamp="1582254942356" />
+    <state width="1273" height="152" key="GridCell.Tab.0.center" timestamp="1582254942355">
       <screen x="47" y="24" width="1319" height="744" />
     </state>
     <state width="1323" height="186" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582233374830" />
-    <state width="1273" height="179" key="GridCell.Tab.0.center/47.24.1319.744@47.24.1319.744" timestamp="1582250957600" />
-    <state width="1273" height="179" key="GridCell.Tab.0.left" timestamp="1582250957595">
+    <state width="1273" height="152" key="GridCell.Tab.0.center/47.24.1319.744@47.24.1319.744" timestamp="1582254942355" />
+    <state width="1273" height="152" key="GridCell.Tab.0.left" timestamp="1582254942355">
       <screen x="47" y="24" width="1319" height="744" />
     </state>
     <state width="1323" height="186" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582233374830" />
-    <state width="1273" height="179" key="GridCell.Tab.0.left/47.24.1319.744@47.24.1319.744" timestamp="1582250957595" />
-    <state width="1273" height="179" key="GridCell.Tab.0.right" timestamp="1582250957601">
+    <state width="1273" height="152" key="GridCell.Tab.0.left/47.24.1319.744@47.24.1319.744" timestamp="1582254942355" />
+    <state width="1273" height="152" key="GridCell.Tab.0.right" timestamp="1582254942355">
       <screen x="47" y="24" width="1319" height="744" />
     </state>
     <state width="1323" height="186" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582233374830" />
-    <state width="1273" height="179" key="GridCell.Tab.0.right/47.24.1319.744@47.24.1319.744" timestamp="1582250957601" />
+    <state width="1273" height="152" key="GridCell.Tab.0.right/47.24.1319.744@47.24.1319.744" timestamp="1582254942355" />
     <state x="194" y="24" key="SettingsEditor" timestamp="1582241930758">
       <screen x="47" y="24" width="1319" height="744" />
     </state>
