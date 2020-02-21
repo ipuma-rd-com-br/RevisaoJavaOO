@@ -1,8 +1,8 @@
-package cap99_modificadores_acesso;
+package cap12_modificadores_acesso;
 
 import classes_auxiliares.UmaClasseComMembrosPublic;
 
-public class Exemplo32_ModificadorPublic {
+public class Exemplo40_ModificadorPublic {
 
     public static void main(String[] args) {
 

@@ -1,8 +1,8 @@
-package cap99_modificadores_acesso;
+package cap12_modificadores_acesso;
 
 import classes_auxiliares.UmaClasseComMembrosPrivate;
 
-public class Exemplo33_ModificadorPrivate {
+public class Exemplo41_ModificadorPrivate {
 
     public static void main(String[] args) {
 
