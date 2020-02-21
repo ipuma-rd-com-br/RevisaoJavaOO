@@ -1,4 +1,4 @@
-package cap01_metodo_main;
+package cap01_tipos_java;
 
 public class Exemplo01_MetodoMain {
 
